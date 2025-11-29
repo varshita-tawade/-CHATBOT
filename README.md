@@ -8,13 +8,15 @@ Designed with clean UI and smooth chat-flow animations to deliver a simple conve
 ## 🖼️ Project Preview
 
 ### 💬 Chatbot UI
-![Chatbot UI](chatbotui.png)
+![Chatbot UI]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui.png")
+![Chatbot UI](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui (2).png"")
 
 ### ⚙️ Conversation Flow
-![Chatbot Flow]()
+![Chatbot Flow]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\conversation flow.png")
+![Chatbot Flow](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\jokes.png"")
 
-### 📱 Mobile Responsive View
-![Chatbot Mobile View]()
+### Mathematical Calculation
+![Chatbot Mobile View](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\workingbot.png"")
 
 ---
 
@@ -22,8 +24,7 @@ Designed with clean UI and smooth chat-flow animations to deliver a simple conve
 - 🧠 Smart and simple chat-based interaction  
 - 🎨 Clean and modern UI  
 - 📱 Fully responsive design  
-- ⚡ Fast and smooth chat animation  
-- 🔊 (Optional) Voice/Text input support  
+- ⚡ Fast and smooth chat animation   
 - 🧩 Easy to customize and extend  
 
 ---
