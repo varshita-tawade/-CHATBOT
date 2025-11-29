@@ -9,14 +9,14 @@ Designed with clean UI and smooth chat-flow animations to deliver a simple conve
 
 ### 💬 Chatbot UI
 ![Chatbot UI]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui.png")
-![Chatbot UI](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui (2).png"")
+![Chatbot UI]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui (2).png")
 
 ### ⚙️ Conversation Flow
 ![Chatbot Flow]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\conversation flow.png")
-![Chatbot Flow](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\jokes.png"")
+![Chatbot Flow]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\jokes.png")
 
 ### Mathematical Calculation
-![Chatbot Mobile View](""C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\workingbot.png"")
+![Chatbot Mobile View]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\workingbot.png")
 
 ---
 
