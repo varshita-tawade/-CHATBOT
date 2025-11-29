@@ -8,7 +8,7 @@ Designed with clean UI and smooth chat-flow animations to deliver a simple conve
 ## 🖼️ Project Preview
 
 ### 💬 Chatbot UI
-![Chatbot UI]("chatbotui.png")
+![Chatbot UI]("https://github.com/varshita-tawade/-CHATBOT/blob/c61b1737f702dabea731ba97726c47247d785daf/chatbotui.png")
 ![Chatbot UI]("C:\Users\SHAMKANT TAWADE\OneDrive\Desktop\chatbot-html css javaccript\assests\chatbotui (2).png")
 
 ### ⚙️ Conversation Flow
